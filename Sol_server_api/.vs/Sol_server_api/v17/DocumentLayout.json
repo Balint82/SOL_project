@@ -1,0 +1,1026 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\major\\source\\repos\\Sol_server_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|c:\\users\\major\\source\\repos\\sol_server_api\\sol_server_api\\data\\solcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\data\\solcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\data\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\data\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\projectpackagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\projectpackagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\projectpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\projectpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\packagecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\packagecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\packagecomponentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\packagecomponentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\projectpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\projectpackagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\compartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\compartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\compartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\compartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\compartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\compartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\componentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\componentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\coworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\coworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\loginregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\loginregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\helpers\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\helpers\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\coworkercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\coworkercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\migrations\\20240902173417_fordelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\migrations\\20240902173417_fordelivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\coworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\coworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\helpers\\securekeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\helpers\\securekeygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\projectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\projectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\migrations\\20240809140942_projectcoworkercorrection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\migrations\\20240809140942_projectcoworkercorrection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\personaldatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\personaldatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\data\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\data\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\migrations\\20240718183655_personaldataidadd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\migrations\\20240718183655_personaldataidadd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\updatecoworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\updatecoworkerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\updatepersonaldatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\updatepersonaldatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\dtos\\updatelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\dtos\\updatelogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\sol_server_api\\controllers\\personaldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:sol_server_api\\controllers\\personaldatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F07E51BD-F851-4F5C-9275-D97D29EB3A7A}|Sol_server_api\\Sol_server_api.csproj|solutionrelative:Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:00:56.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAYwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:50:54.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComponentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ComponentDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\ComponentDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ComponentDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\ComponentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:20:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectPackageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectPackageDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\ProjectPackageDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectPackageDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\ProjectPackageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:55:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PackageComponentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\PackageComponentDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\PackageComponentDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\PackageComponentDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\PackageComponentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:42:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PackageComponent.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\PackageComponent.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\PackageComponent.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\PackageComponent.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\PackageComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:09:40.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectPackage.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\ProjectPackage.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\ProjectPackage.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\ProjectPackage.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\ProjectPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:57:31.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Project.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:42:35.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Data\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\ProjectService.cs",
+              "RelativeToolTip": "Sol_server_api\\Data\\ProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:43:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolContext.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\SolContext.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Data\\SolContext.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\SolContext.cs",
+              "RelativeToolTip": "Sol_server_api\\Data\\SolContext.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKgAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:44:46.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectPackageController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProjectPackageController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\ProjectPackageController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProjectPackageController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\ProjectPackageController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:52:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Compartment.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Compartment.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Compartment.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Compartment.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Compartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:53:06.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CompartmentDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\CompartmentDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CompartmentDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\CompartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:22:07.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CompartmentController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\CompartmentController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CompartmentController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\CompartmentController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAYwKUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:56:47.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadME.txt",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\ReadME.txt",
+              "RelativeDocumentMoniker": "Sol_server_api\\ReadME.txt",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\ReadME.txt",
+              "RelativeToolTip": "Sol_server_api\\ReadME.txt",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGsAAADPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-15T16:49:36.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Component.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Component.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Component.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:54:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ComponentController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\ComponentController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ComponentController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\ComponentController.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAYwNAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:36:02.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Coworker.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Coworker.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Coworker.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Coworker.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Coworker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:14:31.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Program.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Program.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Program.cs",
+              "RelativeToolTip": "Sol_server_api\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:29:43.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241030113928_compartmentAutogenereatedID.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241030113928_compartmentAutogenereatedID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:39:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Process.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Process.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Process.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Process.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:57:52.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersonalData.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\PersonalData.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\PersonalData.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\PersonalData.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\PersonalData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:39:02.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20241019131934_PackageAndComponentsUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241019131934_PackageAndComponentsUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:19:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241019131534_PackageAndComponentsUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241019131534_PackageAndComponentsUpdate.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:15:35.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Customer.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:57:14.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241019130016_PackageAndComponentsUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241019130016_PackageAndComponentsUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:00:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241019125624_PackageAndComponentsUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241019125624_PackageAndComponentsUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:56:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\LoginRegisterDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\LoginRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\LoginRegisterDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\LoginRegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:34:27.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:40:47.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20241017100816_ProjectPackageRealPiece.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20241017100816_ProjectPackageRealPiece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:08:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Helpers\\AuthorizationService.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\AuthorizationService.cs",
+              "RelativeToolTip": "Sol_server_api\\Helpers\\AuthorizationService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:06:50.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\JWTService.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Helpers\\JWTService.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\JWTService.cs",
+              "RelativeToolTip": "Sol_server_api\\Helpers\\JWTService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:44:32.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240924104939_CompartmentIDChange.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240924104939_CompartmentIDChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:49:39.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CoworkerController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CoworkerController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\CoworkerController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CoworkerController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\CoworkerController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:11:59.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProcessController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProcessController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\ProcessController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\ProcessController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\ProcessController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T08:51:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240902173417_ForDelivery.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240902173417_ForDelivery.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240902173417_ForDelivery.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240902173417_ForDelivery.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240902173417_ForDelivery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:34:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Role.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:30:33.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:32:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Login.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:39:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CoworkerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CoworkerDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\CoworkerDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\CoworkerDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\CoworkerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:51:58.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:57:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:23:33.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SecureKeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\SecureKeyGenerator.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Helpers\\SecureKeyGenerator.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Helpers\\SecureKeyGenerator.cs",
+              "RelativeToolTip": "Sol_server_api\\Helpers\\SecureKeyGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:06:10.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\appsettings.json",
+              "RelativeDocumentMoniker": "Sol_server_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\appsettings.json",
+              "RelativeToolTip": "Sol_server_api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T12:53:46.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Admin.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:13:35.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:44:52.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\Permission.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:36:00.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Entities\\RolePermission.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "Sol_server_api\\Entities\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:57:37.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\PermissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:27:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PersonalDataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\PersonalDataDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\PersonalDataDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\PersonalDataDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\PersonalDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:52:25.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProjectUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\ProjectUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\ProjectUpdateDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\ProjectUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:34:01.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240810073554_AddProcessDatas.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240810073554_AddProcessDatas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:35:54.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240809140942_ProjectCoworkerCorrection.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240809140942_ProjectCoworkerCorrection.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240809140942_ProjectCoworkerCorrection.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240809140942_ProjectCoworkerCorrection.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240809140942_ProjectCoworkerCorrection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:09:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Data\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Data\\ILoginRepository.cs",
+              "RelativeToolTip": "Sol_server_api\\Data\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:44:30.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240729133822_GETCoworkerRolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240729133822_GETCoworkerRolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:38:22.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240718183655_personalDataIDadd2.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240718183655_personalDataIDadd2.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240718183655_personalDataIDadd2.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240718183655_personalDataIDadd2.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240718183655_personalDataIDadd2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:36:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdateLoginDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\UpdateLoginDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdateLoginDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\UpdateLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:48:40.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240718183253_personalDataIDadd.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240718183253_personalDataIDadd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:32:53.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateCoworkerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdateCoworkerDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\UpdateCoworkerDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdateCoworkerDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\UpdateCoworkerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:20:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdatePersonalDataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdatePersonalDataDTO.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\DTOs\\UpdatePersonalDataDTO.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\DTOs\\UpdatePersonalDataDTO.cs",
+              "RelativeToolTip": "Sol_server_api\\DTOs\\UpdatePersonalDataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:49:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240716105733_RemoveCoworkerLoginFK.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs",
+              "RelativeToolTip": "Sol_server_api\\Migrations\\20240716105733_RemoveCoworkerLoginFK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:57:33.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PersonalDataController.cs",
+              "DocumentMoniker": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\PersonalDataController.cs",
+              "RelativeDocumentMoniker": "Sol_server_api\\Controllers\\PersonalDataController.cs",
+              "ToolTip": "C:\\Users\\major\\source\\repos\\Sol_server_api\\Sol_server_api\\Controllers\\PersonalDataController.cs",
+              "RelativeToolTip": "Sol_server_api\\Controllers\\PersonalDataController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwFcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:34:44.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
